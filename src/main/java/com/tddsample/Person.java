@@ -1,4 +1,4 @@
-package com.junitsample;
+package com.tddsample;
 
 import lombok.Data;
 import org.springframework.stereotype.Component;
